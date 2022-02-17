@@ -1,4 +1,4 @@
-# © Shrimadhav Uk | @Tellybots
+# © Shrimadhav Uk | @Disney_Bots
 
 import os
 
